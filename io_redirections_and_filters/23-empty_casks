@@ -1,2 +1,2 @@
 #!/bin/bash 
-find ./ -type -not -empty | wc -1
+find rev | cut | rev
